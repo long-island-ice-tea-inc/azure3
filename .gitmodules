@@ -1,0 +1,4 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/long-island-ice-tea-inc/azure3.wiki
+	branch = master
