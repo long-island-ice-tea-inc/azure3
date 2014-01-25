@@ -1,0 +1,3 @@
+<b>Elysium PCB Board</b>
+
+<p>This board holds the LED Driver chips that controls the 512 LEDs of the Azure Cube. Connections to the host & Azure Cube base are provided</p>
