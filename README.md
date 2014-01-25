@@ -5,6 +5,7 @@ Engineering an 8x8x8 LED Cube
 
 
 Directory Structure:
+```
   azure3
      |
      +-----> pcb
@@ -16,3 +17,4 @@ Directory Structure:
      |        |       +----> bcm2835
      |        +----> src
      +-----> de1
+```
