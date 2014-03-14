@@ -3626,10 +3626,10 @@ W = angled&lt;p&gt;
 <part name="SUPPLY17" library="SparkFun-Aesthetics" deviceset="VCC" device=""/>
 <part name="SV2" library="con-lsta" deviceset="FE10-1" device=""/>
 <part name="SUPPLY1" library="supply2" deviceset="GND" device=""/>
-<part name="H1" library="holes" deviceset="MOUNT-HOLE" device="3.3"/>
-<part name="H2" library="holes" deviceset="MOUNT-HOLE" device="3.3"/>
-<part name="H3" library="holes" deviceset="MOUNT-HOLE" device="3.3"/>
-<part name="H4" library="holes" deviceset="MOUNT-HOLE" device="3.3"/>
+<part name="H1" library="holes" deviceset="MOUNT-HOLE" device="5.5"/>
+<part name="H2" library="holes" deviceset="MOUNT-HOLE" device="5.5"/>
+<part name="H3" library="holes" deviceset="MOUNT-HOLE" device="5.5"/>
+<part name="H4" library="holes" deviceset="MOUNT-HOLE" device="5.5"/>
 </parts>
 <sheets>
 <sheet>
@@ -3690,10 +3690,10 @@ W = angled&lt;p&gt;
 <instance part="SUPPLY17" gate="1" x="134.62" y="93.98" rot="R180"/>
 <instance part="SV2" gate="G$1" x="-15.24" y="10.16"/>
 <instance part="SUPPLY1" gate="GND" x="-2.54" y="-5.08"/>
-<instance part="H1" gate="G$1" x="-50.8" y="53.34"/>
-<instance part="H2" gate="G$1" x="-50.8" y="35.56"/>
-<instance part="H3" gate="G$1" x="-53.34" y="17.78"/>
-<instance part="H4" gate="G$1" x="-55.88" y="-5.08"/>
+<instance part="H1" gate="G$1" x="-53.34" y="53.34"/>
+<instance part="H2" gate="G$1" x="-55.88" y="35.56"/>
+<instance part="H3" gate="G$1" x="-58.42" y="17.78"/>
+<instance part="H4" gate="G$1" x="-60.96" y="-5.08"/>
 </instances>
 <busses>
 </busses>
