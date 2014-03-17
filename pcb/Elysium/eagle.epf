@@ -7,6 +7,11 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="C:/Program Files (x86)/EAGLE-6.5.0/lbr/ref-packages.lbr"
+UsedLibrary="G:/WorK/github/azure3/pcb/lbr/Long-Island-Ice-Tea.lbr"
+UsedLibrary="G:/WorK/github/azure3/pcb/lbr/SparkFun-Connectors.lbr"
+UsedLibrary="G:/WorK/github/azure3/pcb/lbr/SparkFun-DigitalIC.lbr"
+UsedLibrary="G:/WorK/github/azure3/pcb/lbr/adafruit.lbr"
 
 [Win_1]
 Type="Control Panel"
@@ -15,5 +20,5 @@ State=1
 Number=0
 
 [Desktop]
-Screen="1280 800"
+Screen="1366 768"
 Window="Win_1"
