@@ -1,0 +1,20 @@
+Partlist exported from G:/WorK/github/azure3/pcb/Vallhalla/v0.1/valhalla_v0.1.sch at 17-01-2016 19:41:49
+
+Part Value         Device           Package               Description                                                         
+C1   100uF         CAP_POLPTH1      CPOL-RADIAL-100UF-25V Capacitor Polarized                                                 
+C2   10uF          CAP_POLPTH2      CPOL-RADIAL-10UF-25V  Capacitor Polarized                                                 
+D1   1N4001        DIODEPTH         DIODE-0.4             Diode                                                               
+J1   POWER_JACKPTH POWER_JACKPTH    POWER_JACK_PTH        Power Jack                                                          
+JP1                PINHD-2X20       2X20                  PIN HEADER                                                          
+JP2  M16PTH        M16PTH           1X16                  1x16 .1" header                                                     
+JP5                M02PTH           1X02                  Header 2                                                            
+LED2 Power         LED5MM           LED5MM                                                                                    
+R1   120           RESISTORPTH1     AXIAL-0.3             Resistor                                                            
+R2   390           RESISTORPTH1     AXIAL-0.3             Resistor                                                            
+R3   120           RESISTORPTH1     AXIAL-0.3             Resistor                                                            
+R4   390           RESISTORPTH1     AXIAL-0.3             Resistor                                                            
+R5   1.2K          RESISTORPTH-1/2W AXIAL-0.5             Resistor                                                            
+R6   TRIMPOTPTH    TRIMPOTPTH       TRIM_POT_PTH          Various small potentiometers for "set-and-forget" applications      
+S1   On/Off        SWITCH-SPSTPTH   SWITCH-SPST           SPST Switch                                                         
+U1   LM317         V_REG_317SINK    TO220-ADJ             Voltage Regulator                                                   
+U2   TLC5940-NT    TLC5940-NT       DIL28-3               16-channel LED Driver with Dot Correction and Grayscale PWM Control 
